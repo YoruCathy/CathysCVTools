@@ -1,4 +1,4 @@
-# My cv toobox
+# My cv toolbox
 Here are some useful tools when I am doing some tasks in computer vision. It will be updated continuously.
 ## Table of Contents
 
