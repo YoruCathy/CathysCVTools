@@ -16,7 +16,7 @@ from tqdm import tqdm
 class Config:
     def __init__(self):
         self.dataset = 'coco'
-        self.path = '/home/tutian/dataset/coco/bases_64'
+        self.path = ''
         self.scale = (64, 64)
         self.n_components = 32
         self.n_iter = [1, 10, 50, 200]
