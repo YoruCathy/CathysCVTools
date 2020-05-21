@@ -9,6 +9,8 @@ Here are some useful tools when I am doing some tasks in computer vision. It wil
 ### Toolkit for KINS dataset
 `kins_tools.py` Useful tools for analyzing [KINS](https://github.com/qqlu/Amodal-Instance-Segmentation-through-KINS-Dataset "KINS") dataset.
 
+### Visualize Voxels
+`dense_sample.py` 
 ## Image Processing
 
 ## Data Processing
